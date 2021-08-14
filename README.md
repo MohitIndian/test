@@ -1,2 +1,2 @@
 # test
-playing around git 
+playing around git and github
